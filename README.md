@@ -1,1 +1,1 @@
-# pandas_syudy_1
+# PY_pandas
